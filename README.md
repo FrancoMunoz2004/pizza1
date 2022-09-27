@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <ol>
   <li>First item</li>
   <li>Second item</li>
@@ -12,3 +13,8 @@
 <li> Harina</li>
 </ul>
 >>>>>>> bece3cfc86fec88d63f92f90f88d01fbd294af2e
+=======
+
+
+<li> hechar salsa de tomate, queso y jamon</li>
+>>>>>>> 75a47089cdc39436bb1561dcf5a0a630857b59b6
